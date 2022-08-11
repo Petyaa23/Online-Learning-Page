@@ -1,0 +1,157 @@
+
+body {
+    margin:0 80px 0 80px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+a {
+   text-decoration: none;
+}
+
+.header {
+    font-size: 19px;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color: #f6f5ef;
+    border: black solid 1px;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+}
+
+.sign-in-block {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    border-radius: 30px;
+}
+
+.sign-ap:hover {
+    border: black solid 1px;
+    border-radius: 30px;
+    padding: 5px 15px 5px 15px;
+}
+
+.sign-in:hover {
+    border: black solid 1px;
+    border-radius: 30px;
+    padding: 5px 15px 5px 15px;
+}
+/* header part end*/
+/* banner part start */
+
+.banner {
+    display: flex;
+    justify-content: space-between;
+    height: 500px;
+    margin-top: 10px;
+    border: 1px black solid;
+    background-color: #f6f5ef;
+}
+
+.banner-boy {
+    height: 500px;
+}
+.text {
+    white-space: normal;
+}
+
+/* banner part end*/
+
+/* start-your-block start */
+
+.start-your-block {
+    height: 200px;
+    border: 1px black solid;
+    margin-top: 10px;
+}
+/* sector-block start */
+
+.sector-block {
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px black solid;
+    margin-top: 10px;
+}
+
+/* featured-courses start */
+
+.featured-courses {
+    height: 150px;
+    border: 1px black solid;
+    background-color: #f6f5ef;
+    margin-top: 10px;
+}
+
+/* card-price start */
+
+.card-price {
+    display: flex;
+    justify-content: space-between;
+    height: 500px;
+    border: 1px black solid;
+    background-color: #f6f5ef;
+    margin-top: 10px;
+
+}
+/*view-profile start */
+
+.view-profile {
+    display: flex;
+    justify-content: space-between;
+    height: 400px;
+    background-color: #0D2F3FFF;
+    border: 1px black solid;
+    margin-top: 10px;
+}
+
+/*few-words start */
+.few-words {
+    border: 1px black solid;
+    margin-top: 10px;
+    height: 100px;
+}
+
+
+/*card-few-words start */
+.card-few-words {
+    border: 1px black solid;
+    margin-top: 10px;
+    height: 300px;
+}
+
+.become-instructor {
+    border: 1px black solid;
+    margin-top: 10px;
+    height: 350px;
+    background-color: #286e6b;
+}
+
+.new-sletter {
+    border: 1px black solid;
+    margin-top: 10px;
+    height: 400px;
+
+}
+
+
+.footer {
+    border: 1px black solid;
+    margin-top: 10px;
+    height: 90px;
+    background-color: #f6f5ef;
+}
+
+
+
+
+
+
+
+
